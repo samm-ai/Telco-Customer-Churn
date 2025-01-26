@@ -1,4 +1,4 @@
-# Teco Customer Churn Analysis
+# Telco Customer Churn Analysis
 
 ## Summary and Recommendations
 
